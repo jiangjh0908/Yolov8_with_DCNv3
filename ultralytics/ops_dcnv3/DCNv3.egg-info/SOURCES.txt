@@ -1,0 +1,12 @@
+setup.py
+DCNv3.egg-info/PKG-INFO
+DCNv3.egg-info/SOURCES.txt
+DCNv3.egg-info/dependency_links.txt
+DCNv3.egg-info/top_level.txt
+E:/Desktop/ultralytics-main/ultralytics-main/ultralytics/ops_dcnv3/src/vision.cpp
+E:/Desktop/ultralytics-main/ultralytics-main/ultralytics/ops_dcnv3/src/cpu/dcnv3_cpu.cpp
+E:/Desktop/ultralytics-main/ultralytics-main/ultralytics/ops_dcnv3/src/cuda/dcnv3_cuda.cu
+functions/__init__.py
+functions/dcnv3_func.py
+modules/__init__.py
+modules/dcnv3.py
