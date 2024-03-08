@@ -1,0 +1,12 @@
+train: /home/image2/workspace/jjh/smoke_detect/ImageSets/train_list3.txt
+
+val: /home/image2/workspace/jjh/smoke_detect/ImageSets/val_list3.txt
+
+test:  /home/image2/workspace/jjh/smoke_detect/ImageSets/test_list3.txt
+
+
+nc: 1
+
+names: ['smoke']
+
+
