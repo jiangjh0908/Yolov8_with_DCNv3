@@ -381,7 +381,7 @@ class Bottleneck_DCNV3(nn.Module):
         self.add = shortcut and c1 == c2
 
     def forward(self, x):
-        print('输入：', self.cv1(x).shape)
+        # print('输入：', self.cv1(x).shape)
         return x + self.cv2(self.cv1(x)) if self.add else self.cv2(self.cv1(x))
 
 
