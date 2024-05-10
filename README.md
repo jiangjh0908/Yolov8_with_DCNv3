@@ -14,7 +14,7 @@ DCNv3代码地址：https://github.com/OpenGVLab/InternImage
 ```
 pip uninstall ultralytics
 cd ultralytics\ops_dcnv3
-python setup.py
+python setup.py install
 ```
 **注意一定要卸载ultralytics包**
 
